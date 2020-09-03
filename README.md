@@ -2,7 +2,7 @@
 
 This is provided without any representation of warranty as per the LICENCE as a community service.
 
-You can add the repo which is hosted via GitHub Pages: `helm repo add kube-janitor https://tablecheck.github.io/kube-janitor/`
+You can add the repo which is hosted via GitHub Pages: `helm repo add kube-janitor https://tablecheck.github.io/kube-janitor-helm/`
 
 Kubernetes Janitor cleans up (deletes) Kubernetes resources on (1) a configured TTL (time to live) or (2) a configured expiry date (absolute timestamp).
 
